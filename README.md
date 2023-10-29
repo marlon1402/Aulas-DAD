@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Aulas DAD</title>
 </head>
 <body>
     <div class="header">
