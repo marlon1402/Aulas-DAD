@@ -28,11 +28,6 @@
         p {
             font-size: 18px;
         }
-        .description {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-        }
     </style>
 </head>
 <body>
@@ -45,9 +40,6 @@
         <p>Projeto para estudo sobre ado.net, usando banco de dados, foi criando em c# usando o visual studio 2022.</p>
         <h2>Uso</h2>
         <p>São varios métodos para testar funcionalidades com banco de dados, no código há comentarios explicando cada classe e suas funcionalidades.</p>
-    </div>
-    <div class="description">
-        <!- Projeto criado para estudos sobre ado.net em c#. ->
     </div>
 </body>
 </html>
