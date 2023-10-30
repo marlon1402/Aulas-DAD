@@ -10,7 +10,7 @@
     </div>
     <div class="container">
         <h2>Visão Geral</h2>
-        <p>Projeto para estudo sobre ado.net, usando banco de dados, foi criando em c# usando o visual studio 2022.</p>
+        <p>Projeto para estudo sobre ado.net, usando banco de dados, foi criado em c# usando o visual studio 2022.</p>
         <h2>Uso</h2>
         <p>São varios métodos para testar funcionalidades com banco de dados, no código há comentarios explicando cada classe e suas funcionalidades.</p>
     </div>
